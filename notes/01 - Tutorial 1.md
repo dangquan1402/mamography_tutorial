@@ -2,7 +2,7 @@
 tags: [Notebook/mamography]
 title: 01 - Tutorial 1
 created: '2021-09-20T11:10:23.398Z'
-modified: '2021-09-20T11:47:20.059Z'
+modified: '2021-09-20T12:25:47.460Z'
 ---
 
 # 01 - Tutorial 1
@@ -17,7 +17,13 @@ modified: '2021-09-20T11:47:20.059Z'
   * Read
   * Write
   * Show
-  * Color channel `RGB`, `BGR`, `Gray`
+  * Color channel `RGB`, `BGR`, `Gray` 
+  * [Color convention](https://stackoverflow.com/a/43234001)
+
+* Command line: `cd`, `ls`, `mkdir`, `mv`, `cp`, `rm`, `wget`, `curl`
+* Manipulate tabular data
+  * `Pandas`
+  * `Numpy`
 
 #### 2. Environment
   * [Colab](https://colab.research.google.com/)
@@ -26,14 +32,13 @@ modified: '2021-09-20T11:47:20.059Z'
     * [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
     * [Vscode](https://code.visualstudio.com/)
     * [Jupyter lab](https://jupyterlab.readthedocs.io/en/stable/)
-  * Version control
+  * [Version control](https://www.youtube.com/watch?v=HVsySz-h9r4)
     
 #### 3. Neural network
 
 * Fundamental things
-  * Gradient descent
-  * Loss function
-  * Optimizer
+  * [Gradient descent methods and optimizers](https://ruder.io/optimizing-gradient-descent/index.html#gradientdescentvariants)
+  * [Loss function](https://www.quora.com/Why-are-different-loss-functions-used-in-machine-learning/answer/JQ-Veenstra)
 * Advanced
   * [CNN](https://cs231n.github.io/convolutional-networks/)
 #### 4. Pytorch

@@ -2,7 +2,7 @@
 tags: [Notebook/mamography]
 title: 01 - Tutorial 1
 created: '2021-09-20T11:10:23.398Z'
-modified: '2021-09-20T11:37:47.785Z'
+modified: '2021-09-20T11:47:20.059Z'
 ---
 
 # 01 - Tutorial 1
@@ -26,6 +26,7 @@ modified: '2021-09-20T11:37:47.785Z'
     * [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
     * [Vscode](https://code.visualstudio.com/)
     * [Jupyter lab](https://jupyterlab.readthedocs.io/en/stable/)
+  * Version control
     
 #### 3. Neural network
 

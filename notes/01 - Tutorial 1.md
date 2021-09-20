@@ -2,7 +2,7 @@
 tags: [Notebook/mamography]
 title: 01 - Tutorial 1
 created: '2021-09-20T11:10:23.398Z'
-modified: '2021-09-20T12:25:47.460Z'
+modified: '2021-09-20T14:08:26.851Z'
 ---
 
 # 01 - Tutorial 1
@@ -46,6 +46,12 @@ modified: '2021-09-20T12:25:47.460Z'
 * [Pytorch practice](https://github.com/yunjey/pytorch-tutorial)
 
 * [Simple example about classification](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
+
+#### 5. Source:
+* [Python tutorial](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
+* [Clean code](https://github.com/zedr/clean-code-python)
+* [Pytorch tutorial](https://uvadlc-notebooks.readthedocs.io/en/latest/)
+* [Apply machine learning](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/)
 
 
 

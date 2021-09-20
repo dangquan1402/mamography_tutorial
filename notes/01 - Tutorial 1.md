@@ -2,7 +2,7 @@
 tags: [Notebook/mamography]
 title: 01 - Tutorial 1
 created: '2021-09-20T11:10:23.398Z'
-modified: '2021-09-20T14:08:26.851Z'
+modified: '2021-09-20T14:27:06.101Z'
 ---
 
 # 01 - Tutorial 1
@@ -52,7 +52,7 @@ modified: '2021-09-20T14:08:26.851Z'
 * [Clean code](https://github.com/zedr/clean-code-python)
 * [Pytorch tutorial](https://uvadlc-notebooks.readthedocs.io/en/latest/)
 * [Apply machine learning](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/)
-
+* [Faster reading iamge in colab](https://stackoverflow.com/a/63046909)
 
 
 

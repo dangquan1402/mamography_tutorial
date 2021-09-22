@@ -1,8 +1,8 @@
 ---
 tags: [Notebook/fundamental]
 title: Cross entropy - KL Divergence
-created: "2021-09-20T15:25:03.844Z"
-modified: "2021-09-20T15:42:04.065Z"
+created: '2021-09-20T15:25:03.844Z'
+modified: '2021-09-20T23:39:14.030Z'
 ---
 
 # Cross entropy - KL Divergence
@@ -31,7 +31,7 @@ $P(sunny) = 1$, how many bit do we need to transfer this information? &#8594; `0
 
 - Construction formula
 
-$$\sum p\cdot log{p} = \dfrac{1}{4}\times 2 + \dfrac{1}{4}\times 2 + \dfrac{1}{4}\times 2 + \dfrac{1}{4}\times 2 = 2$$ (the average message length)
+$$- \sum p\cdot log{p} = \dfrac{1}{4}\times 2 + \dfrac{1}{4}\times 2 + \dfrac{1}{4}\times 2 + \dfrac{1}{4}\times 2 = 2$$ (the average message length)
 
 - Weather in some where,
 

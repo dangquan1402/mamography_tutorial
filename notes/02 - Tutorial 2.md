@@ -1,7 +1,8 @@
 ---
+tags: [Notebook/mamography]
 title: 02 - Tutorial 2
-created: "2021-09-21T23:57:50.103Z"
-modified: "2021-09-22T11:40:03.436Z"
+created: '2021-09-21T23:57:50.103Z'
+modified: '2021-09-22T12:19:03.187Z'
 ---
 
 # 02 - Tutorial 2

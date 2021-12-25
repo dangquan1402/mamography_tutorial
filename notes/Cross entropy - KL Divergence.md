@@ -2,7 +2,7 @@
 tags: [Notebook/fundamental]
 title: Cross entropy - KL Divergence
 created: '2021-09-20T15:25:03.844Z'
-modified: '2021-09-20T23:39:14.030Z'
+modified: '2021-09-26T01:55:44.481Z'
 ---
 
 # Cross entropy - KL Divergence
@@ -55,3 +55,8 @@ The cross-entropy is always equal or greater than the entropy
 
 $$D_{KL}(p\parallel q) = H(p, q) - H(p)$$ 
 KL-divergence is equal to the cross-entropy minus the entropy
+
+
+### Additional resouce
+- [Things that confused me about cross-entropy](https://chris-said.io/2020/12/26/two-things-that-confused-me-about-cross-entropy/)
+

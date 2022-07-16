@@ -1,8 +1,8 @@
 ---
-tags: [Notebook/kaggle]
+tags: [Notebook/kaggle, Notebook/Machine learning]
 title: Kernels and previous solutions
 created: '2021-09-26T23:36:52.650Z'
-modified: '2021-09-27T09:15:03.138Z'
+modified: '2022-07-16T03:57:24.023Z'
 ---
 
 # Kernels and previous solutions

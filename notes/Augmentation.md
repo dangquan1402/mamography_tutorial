@@ -1,7 +1,8 @@
 ---
+tags: [Azure/SampleAzure]
 title: Augmentation
 created: '2021-11-08T12:15:46.248Z'
-modified: '2021-11-09T10:10:15.744Z'
+modified: '2022-07-16T03:58:58.127Z'
 ---
 
 # Augmentation
